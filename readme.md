@@ -103,6 +103,7 @@
 - [Functional Geekery](http://www.functionalgeekery.com/)
 - [Hanselminutes](http://hanselminutes.com/) - Fresh Air for Developers
 - [My Code Is Broken](https://mycodeisbroken.com/)
+- [OpenDevPodcast](https://itunes.apple.com/br/podcast/opendevpodcast/id1071546873?l=en&mt=2)(http://www.opendevpodcast.com.br) - A fresh look at IT topics.
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
 - [Reactive](http://reactive.audio/) - A podcast in which we merge, filter, scan and map streams of thoughts and talk about software engineering, culture, and technology.
 - [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
